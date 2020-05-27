@@ -16,7 +16,7 @@ constructor(props){
        output: 'changed'
     })
   }
-  
+
 render(){
   let quotes = [{
    "name" : "Henry Ford",
@@ -47,4 +47,5 @@ render(){
   )
 }
 }
+
 ReactDOM.render(<Component />, document.getElementById('root'))
