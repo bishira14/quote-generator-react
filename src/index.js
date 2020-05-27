@@ -16,7 +16,7 @@ constructor(props){
        output: 'changed'
     })
   }
-
+  
 render(){
   let quotes = [{
    "name" : "Henry Ford",
